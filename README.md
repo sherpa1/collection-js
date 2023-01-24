@@ -1,4 +1,4 @@
-# Modules NPM utiles
+# Collection JS
 
 Liste de modules NPM régulièrement utilisés dans un projet d'API développé avec Node.js
 
