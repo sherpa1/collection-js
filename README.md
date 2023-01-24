@@ -1,4 +1,6 @@
-# Liste de modules NPM régulièrement utilisés dans un projet d'API développé avec Node.js
+# Modules NPM utiles
+
+Liste de modules NPM régulièrement utilisés dans un projet d'API développé avec Node.js
 
 ## Hot Reloading
 
