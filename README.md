@@ -5,6 +5,10 @@
 - Nodemon : https://nodemon.io/
 - PM2 : https://pm2.keymetrics.io/
 
+## Tests Unitaires
+- Jest : https://jestjs.io/fr/
+- Mocha : https://mochajs.org/
+
 ## Générateur de données fictives
 
 - Fakerjs = https://fakerjs.dev/
