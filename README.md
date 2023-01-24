@@ -39,13 +39,13 @@ Liste de modules NPM régulièrement utilisés dans un projet d'API développé 
 - Nodemon : https://nodemon.io/
 - PM2 : https://pm2.keymetrics.io/
 
-## Linter
-
-- ESLint : https://eslint.org/
-
 ## Lecture / écriture en Base de données
 
 - Knex.js : https://knexjs.org/
+
+## Linter
+
+- ESLint : https://eslint.org/
 
 ## Mailing
 
