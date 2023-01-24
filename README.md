@@ -2,30 +2,58 @@
 
 Liste de modules NPM régulièrement utilisés dans un projet d'API développé avec Node.js
 
-## Hot Reloading
+## Client HTTP
 
-- Nodemon : https://nodemon.io/
-- PM2 : https://pm2.keymetrics.io/
+- Axios : https://axios-http.com/
 
-## Tests Unitaires
-- Jest : https://jestjs.io/fr/
-- Mocha : https://mochajs.org/
+## Client Mobile
+
+- React Native : https://reactnative.dev/
+
+## Client Web
+
+- React.js : https://fr.reactjs.org/
+- Vue.js : https://vuejs.org/
+
+## Contrôle de données
+
+- Joi : https://joi.dev/
+- Validator : https://github.com/validatorjs/validator.js
+
+## Debug
+
+- Debug : https://github.com/debug-js/debug
 
 ## Générateur de données fictives
 
 - Fakerjs = https://fakerjs.dev/
 
-## Mailing
+## Gestion d'état
 
-- Nodemailer : https://nodemailer.com/about/
+- Mobx : https://mobx.js.org/README.html
+- Redux : https://redux.js.org/
+- Vuex : https://vuex.vuejs.org/
 
-## Requêtes HTTP
+## Hot Reloading
 
-- Axios : https://axios-http.com/
+- Nodemon : https://nodemon.io/
+- PM2 : https://pm2.keymetrics.io/
+
+## Linter
+
+- ESLint : https://eslint.org/
 
 ## Lecture / écriture en Base de données
 
 - Knex.js : https://knexjs.org/
+
+## Mailing
+
+- Nodemailer : https://nodemailer.com/about/
+
+## ODM (NoSQL)
+
+- Mongoose : https://mongoosejs.com/
 
 ## ORM
 
@@ -33,41 +61,58 @@ Liste de modules NPM régulièrement utilisés dans un projet d'API développé 
 
 - Sequelize : https://sequelize.org/
 
-## ODM (NoSQL)
+## Performance
 
-- Mongoose : https://mongoosejs.com/
+- Compression : https://github.com/expressjs/compression
 
-## Contrôle de données
+## Programmation Fonctionnelle
 
-- Joi : https://joi.dev/
+- Ramda : https://ramdajs.com/
+
+## Programmation Réactive
+
+- RxJS : https://github.com/ReactiveX/RxJS
 
 ## Sécurité
 
+- Cors : https://github.com/expressjs/cors
+- Helmet : https://helmetjs.github.io/
 - JWT : https://github.com/auth0/node-jsonwebtoken
 - Bcrypt (chiffrement) : https://github.com/kelektiv/node.bcrypt.js
 - Passport (authentification) : https://www.passportjs.org/
 
+## Serveur HTTP
+
+- Express.js : https://expressjs.com/fr/
+
+## Shell
+
+- ShellJS : https://github.com/shelljs/shelljs
+- Commander : https://github.com/tj/commander.js
+- Yargs : https://github.com/yargs/yargs
+- Chalk : https://github.com/chalk/chalk
+- Colors : https://github.com/Marak/colors.js
+- Ora : https://github.com/sindresorhus/ora
+
+## Tests Unitaires
+- Jest : https://jestjs.io/fr/
+- Mocha : https://mochajs.org/
+
+## Upload de fichier
+
+- Multer : https://github.com/expressjs/multer
+
+## UUID
+
+- UUID : https://github.com/uuidjs/uuid
+
+## Variables d'environnement
+
+- Dotenv : https://github.com/motdotla/dotenv
+
 ## Websocket / Temps réel
 
 - Socket.io : https://socket.io/
-
-## Express.js
-
-### Performance
-
-- Compression : https://github.com/expressjs/compression
-
-### CORS
-
-- Cors : https://github.com/expressjs/cors
-
-### Sécurité
-
-- Helmet : https://helmetjs.github.io/
-
-### Upload de fichier
-
-- Multer : https://github.com/expressjs/multer
 
 --
 
