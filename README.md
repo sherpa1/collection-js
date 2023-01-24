@@ -47,6 +47,10 @@ Liste de modules NPM régulièrement utilisés dans un projet d'API développé 
 - Bcrypt (chiffrement) : https://github.com/kelektiv/node.bcrypt.js
 - Passport (authentification) : https://www.passportjs.org/
 
+## Websocket / Temps réel
+
+- Socket.io : https://socket.io/
+
 ## Express.js
 
 ### Performance
