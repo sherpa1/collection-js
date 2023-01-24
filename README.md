@@ -6,15 +6,6 @@ Liste de modules NPM régulièrement utilisés dans un projet d'API développé 
 
 - Axios : https://axios-http.com/
 
-## Client Mobile
-
-- React Native : https://reactnative.dev/
-
-## Client Web
-
-- React.js : https://fr.reactjs.org/
-- Vue.js : https://vuejs.org/
-
 ## Contrôle de données
 
 - Joi : https://joi.dev/
@@ -80,10 +71,6 @@ Liste de modules NPM régulièrement utilisés dans un projet d'API développé 
 - JWT : https://github.com/auth0/node-jsonwebtoken
 - Bcrypt (chiffrement) : https://github.com/kelektiv/node.bcrypt.js
 - Passport (authentification) : https://www.passportjs.org/
-
-## Serveur HTTP
-
-- Express.js : https://expressjs.com/fr/
 
 ## Shell
 
