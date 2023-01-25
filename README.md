@@ -1,6 +1,6 @@
 # Collection JS
 
-Liste de modules NPM régulièrement utilisés dans un projet d'API développé avec Node.js
+Liste de modules NPM régulièrement utilisés dans un projet développé avec Node.js
 
 ## Client HTTP
 
