@@ -37,6 +37,7 @@ Liste de modules NPM régulièrement utilisés dans un projet développé avec N
 ## Linter
 
 - ESLint : https://eslint.org/
+- prettier : https://prettier.io/
 
 ## Mailing
 
