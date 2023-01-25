@@ -15,6 +15,10 @@ Liste de modules NPM régulièrement utilisés dans un projet développé avec N
 
 - Debug : https://github.com/debug-js/debug
 
+## Formatter
+
+- Prettier : https://prettier.io/
+
 ## Générateur de données fictives
 
 - Fakerjs : https://fakerjs.dev/
@@ -37,7 +41,6 @@ Liste de modules NPM régulièrement utilisés dans un projet développé avec N
 ## Linter
 
 - ESLint : https://eslint.org/
-- prettier : https://prettier.io/
 
 ## Mailing
 
