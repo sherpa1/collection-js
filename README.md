@@ -17,7 +17,7 @@ Liste de modules NPM régulièrement utilisés dans un projet développé avec N
 
 ## Générateur de données fictives
 
-- Fakerjs = https://fakerjs.dev/
+- Fakerjs : https://fakerjs.dev/
 
 ## Gestion d'état
 
